@@ -151,7 +151,7 @@ function getresult(msg){
         }
         p+=`the bot can only display 3 slots 😏😏.
            
-           There are  ${l-3==0?'no':l-3} remaining free slots available.
+           There are  ${l-3<0?'no':l-3} remaining free slots available.
            Check (https://www.cowin.gov.in/home)
             `
     }else{
