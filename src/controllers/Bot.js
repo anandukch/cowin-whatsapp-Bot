@@ -12,7 +12,6 @@ const { MessagingResponse } =twilio.twiml
 // const cx=process.env.GSEARCHAPI;
 class Bot{
 
-
     /**
    * @memberof Bot
    * @param {object} req - Request sent to the route
