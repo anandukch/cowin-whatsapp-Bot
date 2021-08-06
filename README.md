@@ -7,8 +7,8 @@
 ### Tech Stack
 
 1. JavaScript
-2. [NodeJS](https://nodejs.org/en/)
-3. [expressJS](https://expressjs.com/)
+2. NodeJS
+3. ExpressJS
 4. Twilio Messaging API
 
 
