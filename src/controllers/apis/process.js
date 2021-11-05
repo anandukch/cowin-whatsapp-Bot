@@ -136,7 +136,6 @@ function getresult(msg) {
         Fee_type: ${msg[i].fee_type}
         details: ${getsession(msg[i].sessions)}
         `;
-      // details: ${getsession(msg[i].sessions)}
       if (i == l - 1) {
         break;
       }
